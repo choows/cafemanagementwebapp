@@ -1,0 +1,92 @@
+[
+  {
+    "label": "Central Area",
+    "region": "Central Region",
+    "value": "central-area"
+  },
+  {
+    "label": "Yishun",
+    "region": "North Region",
+    "value": "yishun"
+  },
+  {
+    "label": "Woodlands",
+    "region": "North Region",
+    "value": "woodlands"
+  },
+  {
+    "label": "Sembawang",
+    "region": "North Region",
+    "value": "sembawang"
+  },
+  {
+    "label": "Ang Mo Kio",
+    "region": "North-East Region",
+    "value": "ang-mo-kio"
+  },
+  {
+    "label": "Toa Payoh",
+    "region": "Central Region",
+    "value": "toa-payoh"
+  },
+  {
+    "label": "Bukit Timah",
+    "region": "Central Region",
+    "value": "bukit-timah"
+  },
+  {
+    "label": "Jurong East",
+    "region": "West Region",
+    "value": "jurong-east"
+  },
+  {
+    "label": "Jurong West",
+    "region": "West Region",
+    "value": "jurong-west"
+  },
+  {
+    "label": "Tampines",
+    "region": "East Region",
+    "value": "tampines"
+  },
+  {
+    "label": "Pasir Ris",
+    "region": "East Region",
+    "value": "pasir-ris"
+  },
+  {
+    "label": "Bedok",
+    "region": "East Region",
+    "value": "bedok"
+  },
+  {
+    "label": "Hougang",
+    "region": "North-East Region",
+    "value": "hougang"
+  },
+  {
+    "label": "Serangoon",
+    "region": "North-East Region",
+    "value": "serangoon"
+  },
+  {
+    "label": "Bukit Panjang",
+    "region": "West Region",
+    "value": "bukit-panjang"
+  },
+  {
+    "label": "Clementi",
+    "region": "West Region",
+    "value": "clementi"
+  },
+  {
+    "label": "Queenstown",
+    "region": "Central Region",
+    "value": "queenstown"
+  },
+  {
+    "label": "Geylang",
+    "region": "Central Region",
+    "value": "geylang"
+  }
+]
